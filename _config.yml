@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : Georgia Third
-  pronouns         : # example: "she/her"  
+  pronouns         : she/her  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : Santa Cruz, CA
+  employer         : University of California Santa Cruz
   uri              : # URL
-  email            : "none@example.org" 
+  email            : gthird@ucsc.edu
 
   # Academic websites
   academia         : # URL
