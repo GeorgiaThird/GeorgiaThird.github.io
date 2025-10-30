@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : Georgia Third
-  pronouns         : she/her  
+  avatar           : "profile.jpg"
+  name             : "Georgia Third"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : Santa Cruz, CA
   employer         : University of California Santa Cruz
